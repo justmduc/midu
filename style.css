@@ -1,15 +1,18 @@
-body {
+body 
+{
     margin: 10px;
     font-family: "Times New Roman", serif;
 }
-form {
+form 
+{
     width: 100%;
     max-width: 1240px;
     margin: 0 auto;
     border: 1px solid red;
     border-bottom: none;
 }
-.titl {
+.titl 
+{
     height: 50px;
     text-align: center;
     color: rgb(143, 40, 40);
@@ -17,10 +20,12 @@ form {
     text-shadow: 4px 9px 0 rgba(255, 0, 0, 0.265);
     padding-top: 15px;
 }
-.titl h4 {
+.titl h4 
+{
     margin: 0;
 }
-.menu {
+.menu 
+{
     height: 38px;
     border-top: 1px solid red;
     border-bottom: 1px solid red;
@@ -31,25 +36,30 @@ form {
     justify-content: center;
     align-items: center;
 }
-.straight {
+.straight 
+{
     width: 30px;
     color: blue;
     vertical-align: middle;
     margin: 0 8px;;
     font-size: 30px;
 }
-.main-container {
+.main-container 
+{
     display: grid;
     grid-template-columns: 19% 54% 27%;
     min-height: 575px;
 }
-.left {
+.left 
+{
     padding-top: 7px;
 }
-.left aside {
+.left aside 
+{
     width: 100%;
 }
-.m1 {
+.m1 
+{
     background-color: rgb(251, 143, 161);
     width: 185px;
     height: 20px;
@@ -59,7 +69,8 @@ form {
     padding: 2px 8px;
     font-size: 16px;
 }
-.company {
+.company 
+{
     width: 185px;
     height: 135px;
     object-fit: cover;
@@ -67,11 +78,13 @@ form {
     box-shadow: 8px 15px 0 rgba(240, 125, 142, 0.548);
     margin-top: 5px;
 }
-.center {
+.center 
+{
     padding: 0 10px;
     box-sizing: border-box;
 }
-.center h2 {
+.center h2 
+{
     color: rgb(143, 40, 40);
     background-color: rgb(238, 143, 154);
     width: 300px;
@@ -83,19 +96,23 @@ form {
     box-sizing: border-box;
     padding-left: 10px;
 }
-.center ul {
+.center ul 
+{
     margin-top: 0;
     margin-bottom: 3px;
     padding-left: 20px;
 }
-.center li {
+.center li 
+{
     font-size: 15px;
     line-height: 16px;
 }
-.best {
+.best 
+{
     color: darkgoldenrod;
 }
-.back {
+.back 
+{
     color: red;          
     margin-left: -20px;           
     margin-top: 5px;              
@@ -103,12 +120,14 @@ form {
     text-decoration: underline;
     font-size: 14px;
 }
-.input {
+.input 
+{
     width: 600px;
     margin-top: 10px;
 }
 .input > div:nth-child(1),
-.input > div:nth-child(2) {
+.input > div:nth-child(2) 
+{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 22px;
@@ -116,49 +135,57 @@ form {
     margin-bottom: 22px;
 }
 .input input[type="text"],
-.input input[type="email"] {
+.input input[type="email"] 
+{
     width: 100%;
     height: 40px;
     padding-left: 8px;
     border: 1px solid #aaa;
 }
-.choose-row {
+.choose-row 
+{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 22px;
     margin-bottom: 22px;
 }
-.choose {
+.choose 
+{
     width: 301px;
     height: 40px;
     padding-left: 5px;
 }
-.radio {
+.radio 
+{
     align-content: top;
     gap: 10px;
     white-space: nowrap;
     font-size: 14px;
 }
-textarea {
+textarea 
+{
     width: 100%;
     height: 58px;
     resize: none;
     padding: 5px;
 }
-.nut {
+.nut 
+{
     width: 60px;
     height: 32px;
     margin-top: 8px;
     margin-right: 3px;
 }
-.right {
+.right 
+{
     margin: 10px 0 0;
     background-color: black;
     color: white;
     padding: 5px 10px;
-    height: 555px;
+    height: 550px;
 }
-.right h2 {
+.right h2 
+{
     color: white;
     background: none;
     width: auto;
@@ -170,28 +197,33 @@ textarea {
     margin-top: -5px;
     font-size: 24px;
 }
-.right h3 {
+.right h3 
+{
     color: white;
     font-size: 18px;
     margin: 0 0 8px 20px;
 }
-.right img {
+.right img 
+{
     display: block;
     width: 250px;
     height: auto;
     margin: 0 auto 5px auto;
 }
 
-.right p {
+.right p 
+{
     font-size: 13px;
     line-height: 15px;
     margin: 0 10px 28px 20px;
 }
 
-.right a {
+.right a 
+{
     color: white;
 }
-.footer {
+.footer 
+{
     height: 40px;
     background-color: rgb(238, 143, 154);
     border: 1px solid red;
