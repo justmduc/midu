@@ -191,9 +191,9 @@ textarea
     height: auto;
     line-height: normal;
     text-align: left;
-    letter-spacing: 0;
-    margin-left: -16px;
     margin-top: -14px;
+    margin-left: -16px;
+    letter-spacing: 0;
     font-size: 24px;
 }
 .right h3 
