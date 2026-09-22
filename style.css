@@ -17,7 +17,7 @@ form
     text-align: center;
     color: rgb(143, 40, 40);
     font-size: 25px;
-    text-shadow: 4px 9px 0 rgba(255, 0, 0, 0.265);
+    text-shadow: 7px 9px 0 rgba(255, 0, 0, 0.265);
     padding-top: 15px;
 }
 .titl h4 
@@ -30,7 +30,7 @@ form
     border-top: 1px solid red;
     border-bottom: 1px solid red;
     text-align: center;
-    background-color: rgb(251, 143, 161);
+    background-color: rgb(238, 143, 154);
     color: white;
     display: flex;
     justify-content: center;
@@ -39,7 +39,7 @@ form
 .straight 
 {
     width: 30px;
-    color: blue;
+    color: rgb(108, 13, 172);
     vertical-align: middle;
     margin: 0 8px;;
     font-size: 30px;
@@ -60,7 +60,7 @@ form
 }
 .m1 
 {
-    background-color: rgb(251, 143, 161);
+    background-color: rgb(238, 143, 154);
     width: 185px;
     height: 20px;
     border-radius: 30px;
@@ -87,7 +87,7 @@ form
 {
     color: rgb(143, 40, 40);
     background-color: rgb(238, 143, 154);
-    width: 300px;
+    width: 340px;
     margin: 10px 150px 0;
     font-size: 25px;
     letter-spacing: 10px;
